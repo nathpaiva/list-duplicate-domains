@@ -1,4 +1,5 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/a0afad9e-beb6-4827-89d4-84c516f49b1d/deploy-status)](https://app.netlify.com/sites/jade-strudel-232b27/deploys)
+[![wakatime](https://wakatime.com/badge/user/2aeba48e-4558-4f58-965a-fc1cd46ba978/project/11eebe8b-0112-4ea1-876c-c9cd1654128a.svg)](https://wakatime.com/badge/user/2aeba48e-4558-4f58-965a-fc1cd46ba978/project/11eebe8b-0112-4ea1-876c-c9cd1654128a)
 
 # List duplicate domains with Vanilla TS
 

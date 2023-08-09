@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a0afad9e-beb6-4827-89d4-84c516f49b1d/deploy-status)](https://app.netlify.com/sites/jade-strudel-232b27/deploys)
+
 # List duplicate domains with Vanilla TS
 
 This project creates two lists based on an input data. The first will be the list of all the URLs that have a duplicate `spam_score`, and the second will be a list of all the URLs with a duplicate `domain_authority`.
